@@ -1,0 +1,4 @@
+[2018-04-19 15:38:45] layer "+7 (800) 888-88-88 Пн - Пт: с 900 до 1800": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2018-04-19 15:38:45] layer "info@a-metall.ru": Unsupported extension: ru
+[2018-04-19 15:38:45] layer "info@a-metall.ru": Unsupported extension: ru
+[2018-04-19 15:38:45] layer "+7 (800) 888-88-88 Пн - Пт: с 900 до 1800": Expected Either a default asset specification or a layer asset specification but "+" found.
